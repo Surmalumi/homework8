@@ -64,3 +64,4 @@ unit_3 = Copier('Xerox', 1500, 1, 15)
 print(unit_1.info())
 print(unit_2.info())
 print(unit_3.info())
+# Не совсем поняла как сделать чтобы было перемещение в различные подразделения.
